@@ -1,0 +1,6 @@
+C:\Users\Влад\source\repos\MyCalcLib2\MyCalcLib2\bin\Debug\MyCalcLib2.dll
+C:\Users\Влад\source\repos\MyCalcLib2\MyCalcLib2\bin\Debug\MyCalcLib2.pdb
+C:\Users\Влад\source\repos\MyCalcLib2\MyCalcLib2\obj\Debug\MyCalcLib2.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\MyCalcLib2\MyCalcLib2\obj\Debug\MyCalcLib2.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\MyCalcLib2\MyCalcLib2\obj\Debug\MyCalcLib2.dll
+C:\Users\Влад\source\repos\MyCalcLib2\MyCalcLib2\obj\Debug\MyCalcLib2.pdb
