@@ -13,7 +13,7 @@ namespace DivCalcTests
         [TestMethod]
         public void Div_3and0_ExceptionThrown()
         {
-            double x = 3, y = 1; 
+            double x = 3, y = 0; 
 
             MyCalcClass c= new MyCalcClass();
 
